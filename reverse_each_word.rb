@@ -10,6 +10,6 @@ end
 
 def reverse_each_word(yes_string)
   yes_string.map do |word|
-    puts word.reverse
+    word.reverse
   end
 end
