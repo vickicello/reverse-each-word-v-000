@@ -7,4 +7,4 @@ def reverse_each_word(yes_string)
   end
 end
 
-reverse_each_word(yes_string)
+
